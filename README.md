@@ -3,6 +3,8 @@
 ## Overview
 The Game Recommendation System is a command-line tool designed to suggest games based on user preferences. By entering the names of games you've played, the system will recommend similar games using preprocessed game data and cosine similarity metrics.
 
+![image](https://github.com/user-attachments/assets/662361d6-ea83-4970-b6ec-c437043ebe99)
+
 ## Table of Contents
 - [Features](#features)
 - [Dependencies](#dependencies)
